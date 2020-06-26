@@ -16,6 +16,4 @@ node server.js
 ```
 
 ## Requisitos
-Npm
-NodeJs
-Idle de sua preferência
+Npm, NodeJs, Idle de sua preferência
